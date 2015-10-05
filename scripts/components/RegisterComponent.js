@@ -1,4 +1,6 @@
 var React = require('react');
+Parse.initialize('V60Of0dGEjcSFrUw72C0cJkNW4KNlpajBnvgM7wi', 'dE5AXtsjDoJE2OVLihBLxnycD8z57zZHTRRFKbnp');
+
 
 module.exports = React.createClass({
 	getInitialState: function() {
